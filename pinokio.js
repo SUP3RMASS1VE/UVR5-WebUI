@@ -2,7 +2,7 @@ const path = require('path')
 module.exports = {
   version: "2.0",
   title: "UVR5-WebUI",
-  description: "",
+  description: "The best vocal remover application on the internet, and it's totally free and open source!",
   icon: "icon.png",
   menu: async (kernel, info) => {
     let installed = info.exists("app/env")
