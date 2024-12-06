@@ -28,8 +28,7 @@ module.exports = {
           "pip install --no-input scipy",
           "pip install --no-input yt-dlp", 
           "pip install --no-input gradio_i18n", 
-          "pip install --no-input audio-separator[gpu]==0.24.1" 
-          "pip install --no-input audio-separator[gpu]==0.24.1" 
+          "pip install --no-input audio-separator[gpu]==0.24.1"
         ]
       }
     },
