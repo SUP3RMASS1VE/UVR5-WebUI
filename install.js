@@ -4,7 +4,7 @@ module.exports = {
       method: "shell.run",
       params: {
         message: [
-          "git clone https://github.com/SUP3RMASS1VE/UVR5-UI app",  // Clone the GitHub repository
+          "git clone https://github.com/Eddycrack864/UVR5-UI app",  // Clone the GitHub repository
         ]
       }
     },
